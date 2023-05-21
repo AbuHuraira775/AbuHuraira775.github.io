@@ -1,0 +1,17 @@
+*{
+    font-family: "Open Sans", sans-serif; 
+}
+.main{
+    width: 300px;
+    margin: auto;
+    margin-top: 8vw;
+    text-align: center;
+    box-shadow: 2px 2px 22px -2px #333;
+    padding: 5vw;
+    height: 300px;
+}
+#btn{
+    background-color: #007FFF;
+    border: 2px solid #fff;
+    color: #fff;
+}
